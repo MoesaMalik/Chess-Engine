@@ -1,6 +1,6 @@
 # Chess-Engine
 
-## general Information 
+## General Information 
 
 As someone who enjoys playing chess regularly and programming, I stumbled upon a tutorial series by Eddie Sharick that combined both of my interests. The result of following his 16-episode series and making some personal improvements along the way is this repository. I highly recommend checking out his YouTube channel and the entire tutorial series to anyone interested in learning more about developing a chess engine. 
 
